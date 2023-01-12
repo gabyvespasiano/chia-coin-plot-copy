@@ -1,3 +1,4 @@
+#cantidad de plots que entran por disco dependiendo su capacidad
 #tb  k32  k33
 #2   18   9
 #3   36   18

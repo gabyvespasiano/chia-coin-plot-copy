@@ -32,6 +32,11 @@ aqui te dejo unos ejemplos de configuracion
     ```
 
 ## Ejemplos de configuración de variables
+### Configurar disco de donde vamos a copiar los plots
+se realiza modificando la siguiente variable
+```
+path = "/media/server/tempssd/plots/"
+```
 ### Ejemplo 1: Tres discos con 20, 15 y 10 plots faltantes respectivamente
 ```
 discos = ["/media/server/disco1/plots","/media/server/disco2/plots","/media/server/disco3/plots"]
